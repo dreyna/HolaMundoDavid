@@ -17,6 +17,7 @@ public class HolaMundoDavid {
      */
     public static void main(String[] args) {
         System.out.println("Esta buena la clase");
+        System.out.println("EAP de Ingeniería de Sistemas");
     }
     
 }
